@@ -43,7 +43,8 @@ img_thumb_bboxed = draw_bbox(img_thumb, bbox_thumb)
 ```
 python d_detect.py
 ```
-![](Figure_1.png)
+
+![](https://github.com/kunalkarda/Extreme-Tiny-Face-Detector/blob/master/Figure_1.png)
 
 Note that it shows bounding boxes only for default scale image *without image pyramid*. Number of bounding boxes ─ not detected faces ─ and minimum box sizes are as follows:
 
