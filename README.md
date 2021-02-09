@@ -43,7 +43,7 @@ img_thumb_bboxed = draw_bbox(img_thumb, bbox_thumb)
 ```
 python d_detect.py
 ```
-![](selfie_demo.png)
+![](Figure_1.png)
 
 Note that it shows bounding boxes only for default scale image *without image pyramid*. Number of bounding boxes ─ not detected faces ─ and minimum box sizes are as follows:
 
