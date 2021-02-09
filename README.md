@@ -1,6 +1,8 @@
 # Extreme-Tiny-Face-Detector
 PyTorch implementation of EXTD , it can detect upto 800+ faces 
 
+![alt text](https://github.com/kunalkarda/Extreme-Tiny-Face-Detector/blob/master/Figure_1.png?raw=true)
+
 
 
 ### Usage Example
@@ -44,7 +46,7 @@ img_thumb_bboxed = draw_bbox(img_thumb, bbox_thumb)
 python d_detect.py
 ```
 
-![](https://github.com/kunalkarda/Extreme-Tiny-Face-Detector/blob/master/Figure_1.png)
+
 
 Note that it shows bounding boxes only for default scale image *without image pyramid*. Number of bounding boxes ─ not detected faces ─ and minimum box sizes are as follows:
 
